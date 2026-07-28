@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jose 👋</h1>
+<h1 align="center">Hey, I'm Jose Roque 👋</h1>
 
 <p align="center">
   <strong>Platform Engineer · DevOps & SRE · Fullstack Developer</strong><br/>
